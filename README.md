@@ -1,3 +1,3 @@
 # java-review
 
-Reviewing the fundamentals of Java programming
+Reviewing the fundamentals of Java programming.
