@@ -1,4 +1,3 @@
-import java.util.InputMismatchException;
 import java.util.Scanner; // Import scanner class
 
 public class QuickStart {
@@ -36,7 +35,6 @@ public class QuickStart {
         catch(Exception e){
             System.out.println("Please enter an integer. No spaces and no letters.");
         }
-
     }
 
    }
